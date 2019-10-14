@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 package estructuras;
-
-import javax.swing.Icon;
-import javax.swing.JButton;
-
 /**
  *
  * @author Dénilson Argueta

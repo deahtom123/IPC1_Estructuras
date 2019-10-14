@@ -49,7 +49,7 @@ public class Cola {
         Nodo reco=cabeza;
         System.out.println("Listado de todos los elementos de la cola.");
         while (reco!=null) {
-            System.out.print(reco.info+"-");
+            System.out.println(reco.info);
             reco=reco.siguiente;
         }
         System.out.println();
